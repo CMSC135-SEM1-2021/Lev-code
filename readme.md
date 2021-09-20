@@ -1,5 +1,5 @@
-Introduction
+# Introduction
 
-Name: Ma. Levy Rizzell P. Coprada
-Hometown: Quezon City
-Why CMSC: Idk na din :(
+Name: Ma. Levy Rizzell Pablo Coprada <br />
+Hometown: Quezon City <br />
+Why CMSC: Initially because game development, ngayon idk na din :( <br />
